@@ -1,2 +1,6 @@
 https://www.kaggle.com/datasets/fernandojvdasilva/stock-tweets-ptbr-emotions/data
 https://www.linkedin.com/in/fernando-n2vec/overlay/50790186/single-media-viewer/?profileId=ACoAAAqKPbgBxDysDSe3Jn-rjvda4SU49f-HLgw
+
+Emoções da base:
+Tru - trust/confiança, dis - disgust/nojo, joy - joy/felicidade, sad - sadness/tristeza, ant - anticipation/antecipação, sur - surprise/surpresa, ang - anger/raiva, fea - fear/medo
+confiança x nojo , felicidade x tristeza, antecipação x surpresa, raiva x medo
